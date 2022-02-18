@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stepper_28byj_48.h": "c",
+        "servo.h": "c",
+        "chars.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
+}
